@@ -1,11 +1,6 @@
 ## Carthage
+        
         github "sublimter/objc-geohash"
-
-=======================================================================
- INSTALL
-=======================================================================
-
-Copy all files under 'Classes/ARC' or 'Classes/NonARC' directory into your project.
 
 =======================================================================
  USAGE
